@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omprakash653
 - 👀 I’m interested in Python/Django Devolopment
-- 💞️ I’m looking to collaborate on  Python/Django Devolopment
+- 💞️ I’m looking to collaborate as python devoloper/Data Scientist/ML Engineer
 -
 - 📫 How to reach me https://www.linkedin.com/in/om-prakash-yadav-517349219
 
